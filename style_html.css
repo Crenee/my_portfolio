@@ -1,0 +1,13 @@
+body{
+
+  font-family: 'Poppins', sans-serif;
+  color: rgb(128, 229, 255);
+  background-color: rgb(204, 153, 255);
+  text-align: center;}
+
+.header{
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
